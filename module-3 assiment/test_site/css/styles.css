@@ -9,9 +9,10 @@ body {
   font-size: 30px;
 }
 #ourmenu{
-  color: blue;
   text-align: center;
-  
+  color: blue;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 8em;
 }
 a {
   font-size: 24px;
