@@ -8,6 +8,11 @@ body {
   color: yellow ;
   font-size: 30px;
 }
+#ourmenu{
+  color: blue;
+  text-align: center;
+  
+}
 a {
   font-size: 24px;
 }
